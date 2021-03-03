@@ -193,5 +193,5 @@ class Celsius:
 
 
 # create an object
-T = Celsius(82)
-print(T.temperature_Fahrenheit)
+t = Celsius(82)
+print(t.temperature_Fahrenheit)
